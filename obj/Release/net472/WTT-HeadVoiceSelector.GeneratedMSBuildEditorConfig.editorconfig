@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = WTT-HeadVoiceSelector
+build_property.ProjectDir = F:\temp\Code Projects\VoiceSelector\3.11\spt-HeadVoiceSelector-spt3.11\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

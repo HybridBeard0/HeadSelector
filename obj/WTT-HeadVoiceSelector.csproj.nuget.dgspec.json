@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\temp\\Code Projects\\VoiceSelector\\3.11\\spt-HeadVoiceSelector-spt3.11\\WTT-HeadVoiceSelector.csproj": {}
+  },
+  "projects": {
+    "F:\\temp\\Code Projects\\VoiceSelector\\3.11\\spt-HeadVoiceSelector-spt3.11\\WTT-HeadVoiceSelector.csproj": {
+      "version": "1.0.7",
+      "restore": {
+        "projectUniqueName": "F:\\temp\\Code Projects\\VoiceSelector\\3.11\\spt-HeadVoiceSelector-spt3.11\\WTT-HeadVoiceSelector.csproj",
+        "projectName": "WTT-HeadVoiceSelector",
+        "projectPath": "F:\\temp\\Code Projects\\VoiceSelector\\3.11\\spt-HeadVoiceSelector-spt3.11\\WTT-HeadVoiceSelector.csproj",
+        "packagesPath": "C:\\Users\\Beardo\\.nuget\\packages\\",
+        "outputPath": "F:\\temp\\Code Projects\\VoiceSelector\\3.11\\spt-HeadVoiceSelector-spt3.11\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Beardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
